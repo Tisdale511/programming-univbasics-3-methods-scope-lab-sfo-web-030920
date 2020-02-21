@@ -15,6 +15,6 @@ end
 
 $phrase = "Do A Barrel Roll!"
 def any_phrase(phrase)
-  return phrase
+  puts phrase
 end
 
