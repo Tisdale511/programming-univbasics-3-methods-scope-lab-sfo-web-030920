@@ -3,9 +3,12 @@ def mario
   puts phrase
 end
 
+
 def toadstool
   puts status
 end
 
 def link 
-  phrase
+  phrase = "It's Dangerous To Go Alone! Take This."
+  return phrase
+end
