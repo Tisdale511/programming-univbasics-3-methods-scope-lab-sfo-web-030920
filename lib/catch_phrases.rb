@@ -13,8 +13,8 @@ def link
   return line
 end
 
+$phrase = "Do A Barrel Roll!"
 def any_phrase(phrase)
   return phrase
 end
 
-any_phrase("Do A Barrel Roll!")
