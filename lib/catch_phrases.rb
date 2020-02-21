@@ -10,7 +10,7 @@ end
 
 def link 
   line = "It's Dangerous To Go Alone! Take This."
-  return line
+  puts line
 end
 
 $phrase = "Do A Barrel Roll!"
